@@ -1,0 +1,17 @@
+/* this file assign diferents color texts and background */
+
+$color-text: #3D3D3D;
+$color-background: #6D6D6D;
+
+body {
+    color: $color-text;
+    background-color: $color-background;
+}
+
+p {
+    color: $color-text;
+}
+
+h2 {
+    background-color: $color-background;
+}
