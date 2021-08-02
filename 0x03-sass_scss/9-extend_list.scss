@@ -1,18 +1,15 @@
 /* */
 
-%font-size{
-    font-size: 12px;
-}
 .info {
-@extend %font-size;
+  font-size: 12px;
 }
 
 .success {
-    @extend %font-size;
-    color: #00FF00;
+  @extend .info;
+  color: #00ff00;
 }
 
 .warning {
-    @extend %font-size;
-    color: #FF0000;
+  @extend .info;
+  color: #ff0000;
 }
