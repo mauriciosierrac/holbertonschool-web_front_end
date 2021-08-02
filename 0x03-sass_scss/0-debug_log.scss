@@ -1,0 +1,6 @@
+/* this file print hello world */
+$hello: 'Hello world';
+
+body {
+    @debug $hello;
+}
