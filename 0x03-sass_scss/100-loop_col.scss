@@ -1,9 +1,7 @@
 /* */
 
-$width: 100%;
-
 @for $i from 1 through 4 {
     .col-#{$i}{
-        width: $width / $i;
+        width: 100% / $i;
     }
 }
