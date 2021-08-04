@@ -1,4 +1,3 @@
-
 /* SUMMARY
     1. GLOBAL
     2. LAYOUT
@@ -181,12 +180,15 @@
   /* Grid
       ============================= */
   
+  .row {
+    display: flex;
+  }
+
   ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
   }
-  
   
   [class*='col-'] {
     padding: 0.5rem;
@@ -257,7 +259,7 @@
     padding: var(--header-padding);
          position: relative;
          z-index: 3;
-         background: transparent;
+         background: transparent !important;
   }
   
   .header-logo {
@@ -496,4 +498,3 @@
     font-size: 10rem;
     z-index: -1;
   }
-    
