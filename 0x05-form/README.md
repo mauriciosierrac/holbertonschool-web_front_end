@@ -47,7 +47,7 @@
 
 ## :dart: About ##
 
-Describe your project
+front-end project using forms, html and css
 
 ## :sparkles: Features ##
 
