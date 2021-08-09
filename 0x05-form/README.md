@@ -1,5 +1,6 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="0x05 Form" />
+  
+  ![Logo Holberton](https://github.com/mauriciosierrac/holbertonschool-web_front_end/blob/master/0x05-form/logoHolberton.jpg)
 
   &#xa0;
 
