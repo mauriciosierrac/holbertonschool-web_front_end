@@ -1,3 +1,4 @@
+
 /* SUMMARY
 	1. GLOBAL
 	2. LAYOUT
@@ -674,4 +675,12 @@
 		justify-content: flex-start;
 		border: none;
 		padding: 0 0 2rem;
+	}
+
+	label {
+		cursor: pointer;
+		display: block;
+		white-space: nowrap;
+		font-size: 1.4rem;
+		padding: 0 0 .5rem;
 	}
